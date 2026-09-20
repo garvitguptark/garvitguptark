@@ -8,16 +8,16 @@ I like the projects where hardware and software have to meet. Most of what I kno
 
 ### What I'm working on
 
-**[SafeSlope-NER](#)** — Landslide early-warning platform for Smart India Hackathon 2026
+**SafeSlope-NER** — Landslide early-warning platform for Smart India Hackathon 2026  
 Team lead and integration lead on a six-person team. I own the FastAPI gateway every other subsystem integrates against — PostGIS schema, Redis cache-aside with Postgres fallback, and dual auth (API keys for machine writes, JWT sessions for the dashboard).
 
-**[SEPS 2.0](https://github.com/ShreyashPoddar/SEPS-2.0)** — Capstone project allocation portal for SRM · [live](https://seps-2-0.vercel.app)
+**[SEPS 2.0](https://github.com/ShreyashPoddar/SEPS-2.0)** — Capstone project allocation portal for SRM · [live](https://seps-2-0.vercel.app)  
 Co-built the backend with one other developer: Express API, Prisma schema, cloud MySQL. Containerised and deployed.
 
-**AuraHR** — Agentic AI recruitment suite
+**AuraHR** — Agentic AI recruitment suite  
 Multi-agent evaluation, semantic match scoring, and a real-time AI interviewer on the Jitsi SDK.
 
-**CashSure** — Cash flow forecasting for small businesses
+**CashSure** — Cash flow forecasting for small businesses  
 Parses raw bank statements into real-time trajectories, with Claude drafting the invoice chasing nobody wants to write.
 
 ---
@@ -47,6 +47,14 @@ On the hardware side: PCB design in EasyEDA, analog prototyping, AutoCAD, and VL
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garvitguptark/garvitguptark/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garvitguptark/garvitguptark/output/snake-light.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/garvitguptark/garvitguptark/output/snake.svg" />
+</picture>
+
+---
+
 ### Resume and certificates
 
 Everything in one folder — resume, VLSI Design certification, FASTATHON certificate, and the rest:
@@ -54,5 +62,5 @@ Everything in one folder — resume, VLSI Design certification, FASTATHON certif
 
 ---
 
-**Open to internships in VLSI, AI and software.**
+**Open to internships in VLSI, AI and software.**  
 [LinkedIn](https://www.linkedin.com/in/garvit-gupta-437a52355/) · [garvit.gupta.rk@gmail.com](mailto:garvit.gupta.rk@gmail.com) · Chennai, India
