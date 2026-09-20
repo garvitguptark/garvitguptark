@@ -47,10 +47,10 @@ On the hardware side: PCB design in EasyEDA, analog prototyping, AutoCAD, and VL
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=1B0B33&title_color=E9B84C&text_color=B9A9D4&icon_color=FF4D9D" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=1B0B33&title_color=E9B84C&text_color=B9A9D4" height="150" alt="Top languages" />
-</p>
+### Resume and certificates
+
+Everything in one folder — resume, VLSI Design certification, FASTATHON certificate, and the rest:
+**[Drive folder](https://drive.google.com/drive/folders/1KoRsC9VBKn8naeMqT7oOlJTP6j3_i644)**
 
 ---
 
