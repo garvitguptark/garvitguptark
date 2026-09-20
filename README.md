@@ -44,6 +44,7 @@ On the hardware side: PCB design in EasyEDA, analog prototyping, AutoCAD, and VL
 - Interned at **NeevCloud**, Bengaluru.
 - Top 10 finalist, **FASTATHON 2026** at SRM.
 - Currently reading into FPGA and ASIC design.
+- Portfolio: https://garvit-gupta-portfolio.netlify.app/
 
 ---
 
